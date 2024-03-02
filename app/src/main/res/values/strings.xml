@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Pizza</string>
+    <string name="pizzaBaslik" translatable="false">Pizza</string>
+    <string name="peynirYazi" translatable="false">Cheese</string>
+    <string name="sucukYazi" translatable="false">Sausage</string>
+    <string name="zeytinYazi" translatable="false">Olive</string>
+    <string name="biberYazi" translatable="false">Pepper</string>
+    <string name="teslimatSure" translatable="false">20 min</string>
+    <string name="teslimatBaslik" translatable="false">Delivery</string>
+    <string name="fiyatYazi" translatable="false">$5.90</string>
+    <string name="buttonYazi" translatable="false">ADD TO CART</string>
+
+
+</resources>
